@@ -9,9 +9,9 @@ For full documentation see:
 
   http://wrapt.readthedocs.org
 
-.. |Travis| image:: https://img.shields.io/travis/GrahamDumpleton/wrapt/develop.svg?style=plastic
-   :target: https://travis-ci.org/GrahamDumpleton/wrapt?branch=develop
-.. |Coveralls| image:: https://img.shields.io/coveralls/GrahamDumpleton/wrapt/develop.svg?style=plastic
-   :target: https://coveralls.io/github/GrahamDumpleton/wrapt?branch=develop
+.. |Travis| image:: https://img.shields.io/travis/agriffis/wrapt/aron.svg?style=plastic
+   :target: https://travis-ci.org/agriffis/wrapt?branch=aron
+.. |Coveralls| image:: https://img.shields.io/coveralls/agriffis/wrapt/aron.svg?style=plastic
+   :target: https://coveralls.io/github/agriffis/wrapt?branch=aron
 .. |PyPI| image:: https://img.shields.io/pypi/v/wrapt.svg?style=plastic
    :target: https://pypi.python.org/pypi/wrapt
